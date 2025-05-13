@@ -70,7 +70,10 @@ Calculadora web que proyecta tu salario anual en función de un aumento porcentu
 
 ## 📝 Créditos
 
-- Desarrollado por: Laura Daniela Escobar Ruiz - Daniel Alvarez Moncada - Laura Vanesa Uribe Franco.
+- Desarrollado por:
+- - - Laura Daniela Escobar Ruiz
+- - - Daniel Alvarez Moncada
+- - -Laura Vanesa Uribe Franco.
 - Inspirado en necesidades reales de proyección salarial en Colombia.
 - Este proyecto fue desarrollado con el objetivo de crear una solución innovadora que permitiera aprender y aplicar el manejo de APIs, el uso de claves de acceso a servicios de IA y la integración de modelos de inteligencia artificial en aplicaciones reales.
 ---
