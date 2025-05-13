@@ -28,8 +28,8 @@ Calculadora web que proyecta tu salario anual en función de un aumento porcentu
 
 1. **Clona el repositorio:**
    ```
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git clone https://github.com/DanhizER/proyeccionSalarial.git
+   cd proyeccionSalarial
    ```
 
 2. **Instala las dependencias:**
