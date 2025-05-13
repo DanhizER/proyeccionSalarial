@@ -49,7 +49,7 @@ Calculadora web que proyecta tu salario anual en función de un aumento porcentu
    ```
    streamlit run Main.py
    ```
-   **Ejecución rapida en windows**
+   **Ejecución rapida en windows**  
       Si prefieres, puedes ejecutar la aplicación usando el archivo `Project Salary.bat` incluido en el proyecto.  
        Solo haz doble clic sobre el archivo o ejecútalo desde la terminal:
 
