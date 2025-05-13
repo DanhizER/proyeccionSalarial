@@ -1,0 +1,70 @@
+
+
+.metric-container {
+    width: 100%;
+}
+
+.metric-value {
+    text-align: center;
+    padding: 5px;
+    font-size: 1.5em; /* hacer el valor más grande */
+    border: 1px solid #ccc; /* agregar un borde */
+    border-radius: 5px; /*bordes redondeados */
+}
+
+.metric-label {
+    text-align: center;
+    margin-bottom: 8px;
+    font-size: 1.2em; /*  hacer el valor más grande */
+}
+
+div[data-testid="stForm"] {
+    background-color:  #150d1a; /* Un gris muy claro */
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #3c2d4e;
+    margin-bottom: 20px; /* espacio debajo del formulario */
+}
+
+/* Estilo para las etiquetas */
+.stNumberInput > label,
+.stSlider > label {
+    color: #555555;
+    font-weight: bold;
+    display: block; /* Asegura que la etiqueta ocupe toda la línea */
+    margin-bottom: 5px; /* Espacio entre la etiqueta y el input */
+}
+
+/* Estilo para los campos de entrada de número y slider */
+.stNumberInput > div > input,
+.stSlider > div > div[data-testid="stSliderThumb"] {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: #333;
+}
+
+/* Estilo específico para el input de número */
+.stNumberInput > div > input {
+    padding: 8px;
+    width: 100%; /* Ocupa todo el ancho disponible */
+    box-sizing: border-box; /* Incluye el padding y el borde en el ancho */
+}
+
+/* Estilo para el contenedor del slider para ocupar todo el ancho */
+.stSlider > div > div {
+    width: 100% !important;
+}
+
+/* Estilo para el botón de calcular */
+div[data-testid="stFormSubmitButton"] > button {
+    background-color: #35233d; /* Un azul primario */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 100%; /* Ocupa todo el ancho del formulario */
+    box-sizing: border-box;
+}
